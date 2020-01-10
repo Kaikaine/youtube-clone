@@ -1,27 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>VideoTube</title>
-  <link rel='stylesheet' type='text/css' href='assets/css/style.css'>
-</head>
-<body>
-  <div id="pageContainer">
+<?php require_once("includes/header.php"); ?>
 
-    <div id="mastHeadContainer">
-    hello
-    </div>
 
-    <div id="sideNavContainer">
-  
-    </div>
+hello everyobe
 
-    <div id="mainSectionContainer">
-  
-    </div>
-  
-  </div>
-</body>
-</html>
+
+<?php require_once("includes/footer.php"); ?>
+                
